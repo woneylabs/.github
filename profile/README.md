@@ -8,8 +8,6 @@ Fundada em 2022 por Vinnicius Gomes, Felipe Reis e Felipe Novais, três amigos a
 
 Curso sobre finanças é algo complicado e muitas vezes caro; acreditamos ser possível aprender de uma forma simples e divertida e deve ser gratuito para todos.
 
-Criamos soluções inteligentes para cuidar do seu dinheiro, com a Woney você consegue ter um controle dos seus gastos, criar orçamentos, gerar relatórios e muito mais!
-
 <sub>🤫 Ei! Você pode ter acesso antecipado ao nosso aplicativo [clicando aqui!](https://form.typeform.com/to/h4lHvv9g).</sub>
 
 <!--
