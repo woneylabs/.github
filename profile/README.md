@@ -1,6 +1,6 @@
 ## Seja bem vindo 👋
 
-![Woney cover](https://github.com/woneylabs/.github/blob/main/assets/github-cover.png)
+![Woney cover](https://github.com/woneylabs/.github/blob/main/assets/cover.png)
 
 Nascemos para transformar a forma com que as pessoas utilizam o dinheiro. Nossa missão é desenvolver a melhor educação financeira do mundo e torná-la universalmente acessível.
 
